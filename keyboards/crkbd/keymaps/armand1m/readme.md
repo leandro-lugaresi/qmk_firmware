@@ -27,15 +27,15 @@ Symbols Layer:<br/>
 
 Every keymap is pretty unique and tailored to suit it's main creators needs. Here are some of my choices for the keys and their explanations:
 
- - Left thumb acts as Space when tapping but as Command when holding: this makes my life so much easier in OS X. Having command reachable all the time just feels right to me and Mod Taps help me a lot on this.
+-   Left thumb acts as Space when tapping but as Command when holding: this makes my life so much easier in OS X. Having command reachable all the time just feels right to me and Mod Taps help me a lot on this.
 
- - Right thumb acts as Enter when tapping but as Right Shift when holding: this is more of an experiment. I usually use shift on my pinkies. It is an interesting feature but I often forget about it.
+-   Right thumb acts as Enter when tapping but as Right Shift when holding: this is more of an experiment. I usually use shift on my pinkies. It is an interesting feature but I often forget about it.
 
- - Esc lives in the home row, before A. It also acts as a layer toggle to the numbers layer when held. Having the LT to the numbers layer here allows me to actually reach the number 1 pretty nicely and other numbers on the left hand pretty easily.
+-   Esc lives in the home row, before A. It also acts as a layer toggle to the numbers layer when held. Having the LT to the numbers layer here allows me to actually reach the number 1 pretty nicely and other numbers on the left hand pretty easily.
 
- - Keys on the home row are used to switch to layers, so "A" goes to layer 2 when held. I started making this in the Moonlander and migrated the practice, but still sometimes I use the MO 2 on the right thumb.
+-   Keys on the home row are used to switch to layers, so "A" goes to layer 2 when held. I started making this in the Moonlander and migrated the practice, but still sometimes I use the MO 2 on the right thumb.
 
- - One Shot Keys are enabled for the shifts on the pinkies. If you press it twice: it will lock on shift until pressed again (pretty much like caps lock). These are handy when you're typing and just don't want to hold shift to have a capitalized word.
+-   One Shot Keys are enabled for the shifts on the pinkies. If you press it twice: it will lock on shift until pressed again (pretty much like caps lock). These are handy when you're typing and just don't want to hold shift to have a capitalized word.
 
 ## Usage
 
@@ -61,4 +61,4 @@ qmk flash -kb crkbd -km armand1m -bl dfu
 
 ## Credits
 
- - Armando Magalhaes [(github)](https://go.d1m.dev/github)
+-   Armando Magalhaes [(github)](https://go.d1m.dev/github)
